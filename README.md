@@ -1,5 +1,5 @@
 ## 在海月的虚空中 纵身飞过秋凉的时鸟 ✨
-> 🎮 复古JDM二次元 | 中古游戏机收藏家 | 偶尔写代码的UP主 | 蒸汽波音乐享受者
+>  复古JDM二次元 | 中古游戏机收藏家 | 偶尔写代码的UP主 | 蒸汽波音乐享受者
 
 ### 🌟 关于我
 - 🔭 喜欢折腾各种有趣的中古游戏机/PC硬件/单片机
@@ -9,7 +9,7 @@
 
 ### 🎓 教育 & 成就
 - 🏫 **Uni Melb IT** 准研究生
-- 🏆 推免获得者（但我选择了另一条路）
+- 🏆 推免获得者（但如你所见，我选择了另一条路）
 - 📜 软件著作权 ×1
 - 📄 发表论文 ×1
 
@@ -23,7 +23,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 
-**学习中**：PSP文字游戏开发 | RenPy | 日语
+**锐意（笑）学习中**：PSP文字游戏开发 | RenPy | 日语
 
 ### 我将持续观看：命运石之门 | 幸运星 | CLANNAD | AIR | EVA
 

@@ -1,19 +1,32 @@
 ## 在海月的虚空中 纵身飞过秋凉的时鸟 ✨
->  复古JDM二次元 | 中古游戏机收藏家 | 偶尔写代码的UP主 | 蒸汽波音乐享受者
+## A cuckoo soaring through the autumn chill across the moonlit void ✨
 
-### 🌟 关于我
-- 🔭 喜欢折腾各种有趣的中古游戏机/PC硬件/单片机
-- 🌱 最近（并非）在尝试在我的公众号“乐意之至 居酒屋”写一些游戏动漫review，顺便断断续续研究 RenPy游戏移植 (还学了两天的Lua)
-- 💬 二次元？这将是我成为IT领域专家的必经之路lmao
-- 📝 会写点Python、Web、Arduino、C... (只要我有codex😆)
+> 🇯🇵🚗 复古JDM二次元 | 中古游戏机收藏家 | 偶尔写代码的UP主 | 蒸汽波音乐享受者  
+> Retro JDM Enthusiast | Vintage Gaming Console Collector | Occasional Coder & Content Creator | Vaporwave Connoisseur  
 
-### 🎓 教育 & 成就
-- 🏫 **Uni Melb IT** 研究生
-- 🏆 推免获得者
-- 📜 软件著作权 ×1
-- 📄 发表论文 ×1
+---
 
-### 🛠️ 技术栈
+### 🌟 关于我 / About Me
+- 🔭 **探索 / Tinkering**: 喜欢折腾各种有趣的中古游戏机、复古PC硬件与单片机。  
+  *Passionate about tinkering with vintage gaming consoles, retro PC hardware, and microcontrollers.*
+- 🌱 **创作 / Projects**: 断断续续在公众号“乐意之至 居酒屋”写动漫游戏 Review，业余研究 Ren'Py 游戏移植（顺便速成了两天 Lua）。  
+  *Writing ACG reviews on my WeChat blog "With Pleasure Izakaya" (乐意之至 居酒屋), while tinkering with Ren'Py game porting (and a 48-hour Lua speedrun).*
+- 💬 **信仰 / Philosophy**: 二次元？这将是我成为IT领域专家的必经之路 lmao  
+  *Anime & Otaku culture? The inevitable path to becoming an IT guru, lmao.*
+- 📝 **代码 / Coding**: 会写点 Python、Web、Arduino、C...（只要身边有 Codex 😆）  
+  *Code in Python, Web, Arduino, C... (as long as Codex is by my side 😆).*
+
+---
+
+### 🎓 教育 & 成就 / Education & Highlights
+- 🏫 **UniMelb IT** 研究生 / *Master of Information Technology candidate @ University of Melbourne*
+- 🏆 **推免获得者** / *Exempted Postgraduate Recommendation Honoree*
+- 📜 **软件著作权 ×1** / *National Computer Software Copyright ×1*
+- 📄 **发表论文 ×1** / *Academic Research Paper (CPCI-indexed) ×1*
+
+---
+
+### 🛠️ 技术栈 / Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -23,14 +36,19 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
 
-**锐意（笑）学习中**：PSP文字游戏开发 | RenPy | 日语
+- 🚀 **锐意（笑）学习中 / Currently Exploring**:  
+  PSP文字游戏逆向与开发 | Ren'Py 移植与脚本 | 日语  
+  *PSP Visual Novel Modding & Dev | Ren'Py Porting | Japanese*
 
-### 我将持续观看：命运石之门 | 幸运星 | CLANNAD | AIR | EVA
+- 📺 **持续重温 / Eternal Watchlist**:  
+  命运石之门 (Steins;Gate) | 幸运星 (Lucky Star) | CLANNAD | AIR | 新世纪福音战士 (EVA)
 
-### ✨ 找到我
-- 🎬 **Bilibili**：[栗尾玲子Reiko](https://space.bilibili.com/341918869) 
-- 📰 **公众号**：乐意之至 居酒屋 (主要是游戏评论)
-- 🐧 **QQ群**：一群391437320；二群852680622 (游戏、动画、程序、硬件etc)
+---
+
+### ✨ 找到我 / Connect With Me
+- 🎬 **Bilibili**: [栗尾玲子Reiko](https://space.bilibili.com/341918869)  
+- 📰 **WeChat Official Account**: 乐意之至 居酒屋 (*Mainly game reviews*)  
+- 🐧 **QQ Community**: Group 1: `391437320` | Group 2: `852680622` (*Games, Anime, Code & Hardware*)
 
 ---
 
@@ -38,4 +56,5 @@
 
 <!--
 如果命运石之门的选择真的存在...
+If the choice of Steins Gate truly exists...
 -->
